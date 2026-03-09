@@ -4,7 +4,7 @@
 ![License MIT](https://img.shields.io/badge/License-MIT-green)
 ![Platform Linux | macOS | Windows](https://img.shields.io/badge/Platform-Linux%20|%20macOS%20|%20Windows-lightgrey)
 
-Advanced network scanner with TCP and UDP support, built in Python.
+Network scanner with TCP and UDP support, built in Python.
 
 ## Features
 

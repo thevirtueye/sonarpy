@@ -25,10 +25,7 @@ classifiers = [
     "Topic :: System :: Networking",
 ]
 
-dependencies = []
-
-[project.optional-dependencies]
-scapy = ["scapy>=2.5.0"]
+dependencies = ["scapy>=2.5.0"]
 
 [project.scripts]
 sonarpy = "sonarpy.__main__:main"
